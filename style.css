@@ -1,0 +1,7 @@
+#headings {
+    color: blue;
+}
+
+table, tr, td {
+    border: 1px solid green;
+}
